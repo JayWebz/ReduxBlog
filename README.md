@@ -1,10 +1,10 @@
 A concise blog application that uses redux to manage data. Data includes blog posts and blog post authors.
 
 # Frameworks and packages
-Semantic UI CSS Framework
-redux
-redux-thunk - middleware to allow for asynchronous actions
-lodash - chaining actions together
+- Semantic UI CSS Framework
+- redux
+- redux-thunk - middleware to allow for asynchronous actions
+- lodash - chaining actions together
 
 Middleware - 
 - A plain JS function that gets called with every action dispatched
