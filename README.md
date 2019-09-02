@@ -17,5 +17,5 @@ Middleware -
 https://jsonplaceholder.typicode.com
 
 # Endpoints used:
-/posts
-/users
+- /posts
+- /users
